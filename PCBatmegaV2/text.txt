@@ -1,0 +1,1 @@
+Previously we had designed the circuit to run the three solenoid valves and compressor. The files for the same as well as the code we developed is attached herewith. These might be helpful for you to improve the product further. Thankyou 
