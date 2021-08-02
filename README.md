@@ -1,2 +1,2 @@
-# Compression-based-leg-massager
-This repository contains the circuit and code for a compression cycle in a multi air chamber leg massager
+# FabRelax | Compression-based-leg-massager | Company - Etex   
+This repository contains the circuit and code for a multi air chamber leg massager I developed.
